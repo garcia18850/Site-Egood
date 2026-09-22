@@ -38,17 +38,4 @@ O projeto foi construído utilizando as tecnologias mais modernas do ecossistema
 - `src/lib/`: Utilitários, constantes e dados de veículos (`vehicleData.js`).
 - `src/assets/`: Imagens e recursos visuais dos veículos.
 
-## 🛠️ Como executar o projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone <url-do-repositorio>
-   ```
-2. Instale as dependências:
-   ```bash
-   npm install
-   ```
-3. Inicie o servidor de desenvolvimento:
-   ```bash
-   npm run dev
-   ```
